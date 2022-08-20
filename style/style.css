@@ -12,8 +12,12 @@ body {
   }
   
   footer {
+    text-align: center;
     color: #DBEDF3;
     font-family: sans-serif;
+  }
+  footer a{
+    color: #DBEDF3;
   }
   
   .w {

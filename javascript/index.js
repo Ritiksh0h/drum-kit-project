@@ -76,3 +76,10 @@ function buttonAnimation (currentKey){
     }, 150);
 
 }
+
+// footer
+var cpYear = document.getElementById("cp-date");
+var d = new Date();
+var year = d.getFullYear()
+
+cpYear.innerHTML = year;
